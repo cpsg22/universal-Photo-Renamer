@@ -1,10 +1,7 @@
 # universal-Photo-Renamer
-A user-friendly desktop app built with Python for powerful batch and reverse-order renaming of photos and other files.
-
-
 A user-friendly desktop application built with Python and Tkinter for powerful batch and reverse-order renaming of photos and other files. This tool is perfect for photographers and anyone needing to organize large sets of files quickly.
 
-![Application Screenshot](screenshot.png)
+![Application Screenshot](screenshot.jpg)
 
 ## Key Features
 
